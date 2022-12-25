@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Welcome_Page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Shop" x:Name="Shop_btn"/>
+            <Button Text="Cars" x:Name="Cars_btn"/>
+            <Button Text="Iset" x:Name="Iset_btn"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

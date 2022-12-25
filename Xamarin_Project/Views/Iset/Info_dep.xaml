@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Iset.Info_dep">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>Presentation</Label>
+            <Label>The Department of Computer Technologies started in February 2003.
+                It brings together teachers and professionals (contract workers)
+                available to students preparing for a D.E.S.T (Diploma of Higher Studies in Technology)
+                or an applied License.</Label>
+            <Label>Opportunities</Label>
+            <Label>Application Developer</Label>
+            <Label>Web Developer</Label>
+            <Label>Network and systems administrator</Label>
+            <Label>Operations IT specialist</Label>
+            <Label>Operation manager</Label>
+            <Label >tel:+216 71 460 600</Label>
+            <Label>Email :SAADAOUIABDELKADER@hotmail.com</Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

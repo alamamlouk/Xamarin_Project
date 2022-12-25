@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Admin.Admin"
+             xmlns:pages="clr-namespace:Xamarin_Project.Views.Admin">
+  <FlyoutPage.Flyout>
+    <pages:AdminFlyout x:Name="FlyoutPage" />
+  </FlyoutPage.Flyout>
+  <FlyoutPage.Detail>
+    <NavigationPage>
+      <x:Arguments>
+        <pages:AdminDetail />
+      </x:Arguments>
+    </NavigationPage>
+  </FlyoutPage.Detail>
+</FlyoutPage>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Iset.Iset_Dep"
+             xmlns:local="clr-namespace:Xamarin_Project.Views.Iset"
+            NavigationPage.HasNavigationBar="False"
+            BarBackgroundColor="Black"
+            SelectedTabColor="Red"
+            UnselectedTabColor="Wheat"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Top">
+    <local:Civil_dep Title="Civil"/>
+    <local:Elec_dep Title="Elec"/>
+    <local:Gest_dep Title="Gest"/>
+    <local:Info_dep Title="Infp"/>
+    <local:Mech_dep Title="Mech"/>
+</TabbedPage>

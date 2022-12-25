@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Iset.Gest_dep">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>Presentation</Label>
+            <Label>The economics and management sciences department brings together all 
+                the training in the tertiary sector required by the market.
+                The specialized and specialized training profiles concern various fields ranging from accounting and 
+                financial techniques to sales and advertising communication techniques,
+                including logistics and international transport.</Label>
+            <Label>Opportunities</Label>
+            <Label>Accounting and Financial Management
+            </Label>
+            <Label>Trade and distribution
+            </Label>
+            <Label>Trade and distribution
+            </Label>
+            <Label>Digital marketing course
+            </Label>
+            <Label>Operations IT specialist</Label>
+            <Label >tel:+216 000</Label>
+            <Label>Email :*****</Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

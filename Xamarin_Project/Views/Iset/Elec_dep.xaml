@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Iset.Elec_dep">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>Presentation</Label>
+            <Label>The Department of Electrical Engineering trains senior technicians in all fields related to industrial systems that rely mainly on electric energy for production and provision of various services by acquiring all the skills to program, run, maintain and monitor them while ensuring all occupational safety mechanisms and the safety of all equipment and components of electrical systems.</Label>
+            <Label>Opportunities</Label>
+            <Label>Automation and industrial information</Label>
+            <Label>industrial electricity</Label>
+            <Label>Maintenance of electrical systems</Label>
+            <Label>Safety and industrial control</Label>
+            <Label>Operation manager</Label>
+            <Label >tel:+216 71 460 600</Label>
+            <Label>Email :faouzifezzani@gmail.com
+
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

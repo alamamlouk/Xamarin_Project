@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Project.Views.Iset.Civil_dep">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label>Presentation</Label>
+            <Label>The Department of Civil Engineering started in September 1996. It brings together teachers and specialist equipment, fully available to students preparing for an L.A.GC (License Applied in Civil Engineering).
+            </Label>
+           
+            <Label >tel:+216 71 460 600</Label>
+            <Label>Email :Mansouri JOMLI</Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
